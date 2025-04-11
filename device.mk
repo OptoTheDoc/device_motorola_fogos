@@ -31,7 +31,11 @@ PRODUCT_PACKAGES += \
     SystemUIResDevice \
     WifiResDevice \
     WifiResDeviceXT2363-8 \
-    WifiResDeviceXT2363-9
+    WifiResDeviceXT2363-9 \
+    SettingsOverlayXT2363-1 \
+    SettingsOverlayXT2363-2 \
+    SettingsOverlayXT2363-3 \
+    SettingsOverlayXT2363-5 
 
 # Audio
 PRODUCT_COPY_FILES += \
