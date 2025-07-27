@@ -17,7 +17,7 @@ $(call inherit-product, vendor/infinity/config/common_full_phone.mk)
 # Maintainer
 INFINITY_BUILD_TYPE := OFFICIAL
 INFINITY_MAINTAINER := Dr.Opto
-WITH_GAPPS=true
+# WITH_GAPPS=true
 
 #Infinity Props
 TARGET_SUPPORTS_TOUCHGESTURES := true
